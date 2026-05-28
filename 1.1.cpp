@@ -27,15 +27,15 @@ int main()
 
 // Output:
 // Enter your rollno:
-// 124
+// 57
 // Enter your name: 
-// prashant
+// harsh
 // Enter your college name: 
 // aceit
 // Enter your fees: 
-// 52857
+// 100000
 // You Entered: 
-// rollno = 124
-// name = prashant
+// rollno = 57
+// name = harsh
 // college name = aceit
-// fees = 52857
+// fees = 100000
