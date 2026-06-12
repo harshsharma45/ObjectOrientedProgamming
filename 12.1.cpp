@@ -1,6 +1,5 @@
 // Main objective: write program to understand file handling techniques
 // 12.1 wap in c++ writing student data in a file and reading using file handling function
-
 #include <iostream>
 #include <fstream>
 using namespace std;
@@ -34,10 +33,10 @@ int main()
 }
 
 // Output:
-// Enter the name: Prashant
+// Enter the name: Harsh
 // Enter the age: 20
-// Enter fees: 200000
+// Enter fees: 120000
 // Student details read from file
-// Name = Prashant
+// Name = Harsh
 // Age = 20
-// Fees = 200000
+// Fees = 120000
