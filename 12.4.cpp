@@ -12,11 +12,11 @@ private:
 public:
     void input()
     {
-        cout << "Enter St. name\n";
+        cout << "Enter Student name"<<endl;
         cin >> name;
-        cout << "Enter age\n";
+        cout << "Enter age"<<endl;
         cin >> age;
-        cout << "Enter fees\n";
+        cout << "Enter fees"<<endl;
         cin >> fees;
     }
     void show()
@@ -58,10 +58,10 @@ int main()
 
 // Output:
 // Enter Student data
-// Enter St. name
-// prashant
+// Enter Student name
+// Harsh
 // Enter age
-// 20
+// 19
 // Enter fees
 // 100000
 // data from file
