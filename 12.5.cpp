@@ -70,22 +70,22 @@ int main()
 // 2
 // Enter employee 1 data:
 // Enter the name of employee:
-// prashant
+// harsh
 // Enter the employee id:
-// 1
+// 101
 // Enter the salary:
-// 20000
+// 120000
 // Enter employee 2 data:
 // Enter the name of employee:
-// palak
+// garvit
 // Enter the employee id:
-// 2
+// 102
 // Enter the salary:
-// 25000
+// 103000
 // Data from the file
-// Name: prashant
-// Id: 1
-// Salary: 20000
-// Name: palak
-// Id: 2
-// Salary: 25000
+// Name: harsh
+// Id: 101
+// Salary: 120000
+// Name: garvit
+// Id: 102
+// Salary: 103000
