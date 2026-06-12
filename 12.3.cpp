@@ -6,14 +6,14 @@ int main()
 {
     fstream f1, f2;
     f1.open("name.txt", ios::out);
-    f1 << "Manish" << endl;
-    f1 << "Ravi" << endl;
-    f1 << "Mahesh" << endl;
+    f1 << "Harsh" << endl;
+    f1 << "Garvit" << endl;
+    f1 << "Ayush" << endl;
     f1.close();
     f2.open("sname.txt", ios::out);
-    f2 << "Dwivedi" << endl;
     f2 << "Sharma" << endl;
-    f2 << "Jain" << endl;
+    f2 << "Sharma" << endl;
+    f2 << "Tiwari" << endl;
     f2.close();
     f1.open("name.txt", ios::in);
     f2.open("sname.txt", ios::in);
@@ -31,7 +31,7 @@ int main()
 }
 
 // Output:
-// Manish Dwivedi
-// Ravi Sharma
-// Mahesh Jain
+// Harsh Sharma
+// Garvit Sharma
+// Ayush Tiwari
  
